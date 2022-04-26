@@ -1,0 +1,56 @@
+[
+  {
+    "name": "kyber-2cad-qui",
+    "address": "0x32d8513eDDa5AEf930080F15270984A043933A95",
+    "decimals": "1e18",
+    "chainId": 137,
+    "lp0": {
+      "address": "0xA69b0D5c0C401BBA2d5162138613B5E38584F63F",
+      "oracle": "tokens",
+      "oracleId": "jarvis-2cad",
+      "decimals": "1e18"
+    },
+    "lp1": {
+      "address": "0xF65fb31ad1ccb2E7A6Ec3B34BEA4c81b68af6695",
+      "oracle": "tokens",
+      "oracleId": "QUI",
+      "decimals": "1e18"
+    }
+  },
+  {
+    "name": "kyber-ses-2jpy",
+    "address": "0x3b76F90A8ab3EA7f0EA717F34ec65d194E5e9737",
+    "decimals": "1e18",
+    "chainId": 137,
+    "lp0": {
+      "address": "0x9120ECada8dc70Dc62cBD49f58e861a09bf83788",
+      "oracle": "tokens",
+      "oracleId": "SES",
+      "decimals": "1e18"
+    },
+    "lp1": {
+      "address": "0xE8dCeA7Fb2Baf7a9F4d9af608F06d78a687F8d9A",
+      "oracle": "tokens",
+      "oracleId": "jarvis-2jpy",
+      "decimals": "1e18"
+    }
+  },
+  {
+    "name": "kyber-4eur-den",
+    "address": "0x6E56300267A6Dd07DA0908557E02756747E1c90E",
+    "decimals": "1e18",
+    "chainId": 137,
+    "lp0": {
+      "address": "0x51e7B5A0e8E942A62562f85D91501fbfA43121fE",
+      "oracle": "tokens",
+      "oracleId": "DEN",
+      "decimals": "1e18"
+    },
+    "lp1": {
+      "address": "0xAd326c253A84e9805559b73A08724e11E49ca651",
+      "oracle": "tokens",
+      "oracleId": "jarvis-4eur",
+      "decimals": "1e18"
+    }
+  }
+]
